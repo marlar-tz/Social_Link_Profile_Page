@@ -58,6 +58,7 @@ body {
 .btn {
     font-family: inter-semibold !important;
     font-size: 14px !important;
+    padding: 1rem 2rem !important;
 }
 
 #border-dark {
