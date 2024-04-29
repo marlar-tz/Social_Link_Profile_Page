@@ -31,11 +31,11 @@ Users should be able to:
 ![Desktop design](./design/created-byML/Desktop-design%20by%20ml.png)
 <br>
 
--Mobile Design
+- Mobile Design
 ![Mobile design](./design/created-byML/Mobile-design%20by%20ml.png)
 <br>
 
--Active state
+- Active state
 ![Active state](./design/created-byML/active-state.png)
 <br>
 ### Links
