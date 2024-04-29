@@ -63,5 +63,5 @@ In this project , I learned about containers layout design , padding , and custo
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/marlar-tz)
+- Frontend Mentor - [@marlar-tz](https://www.frontendmentor.io/profile/marlar-tz)
 
