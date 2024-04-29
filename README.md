@@ -28,15 +28,15 @@ Users should be able to:
 ### Screenshot
 
 - Desktop Design
-![Desktop design](./design/created-byML/Desktop-design%20by%20ml.png)
+![Desktop design](./design/created-byML/new%20desktop%20version.png)
 <br>
 
 - Mobile Design
-![Mobile design](./design/created-byML/Mobile-design%20by%20ml.png)
+![Mobile design](./design/created-byML/new%20mobile%20version.png)
 <br>
 
 - Active state
-![Active state](./design/created-byML/active-state.png)
+![Active state](./design/created-byML/new%20active%20state.png)
 <br>
 ### Links
 
