@@ -40,7 +40,7 @@ Users should be able to:
 <br>
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/sociallinkprofilepage-using-bootstrap-framework-Idu0kk1BHR)
 - Live Site URL: [live site URL](https://marlar-tz.github.io/Social_Link_Profile_Page/)
 
 ## My process
